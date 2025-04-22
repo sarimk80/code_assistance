@@ -8,6 +8,10 @@ Whether you're copying non-English text or code snippets, this app steps in to h
 <img width="509" alt="Screenshot 2025-04-17 at 12 07 14 PM" src="https://github.com/user-attachments/assets/19c974a3-b909-4c63-9df8-0cb40e5cae0f" />
 
 
+
+https://github.com/user-attachments/assets/d4953054-c4c5-4809-b49b-943c3b767b65
+
+
 ## ✨ Features
 
 - 🔤 **AI Translation**: Automatically detects non-English text in your clipboard, opens a window, and translates it into English using [Ollama](https://ollama.com/).
